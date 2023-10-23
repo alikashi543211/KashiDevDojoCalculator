@@ -11,7 +11,7 @@
     ],
     "autoload": {
         "psr-4": {
-            "KashiDevDojo\\Calculator\\": "src/"
+            "KashiDevdojo\\Calculator\\": "src/"
         }
     },
     "require": {
