@@ -9,9 +9,13 @@
             "email": "your@email.com"
         }
     ],
+    "autoload": {
+        "psr-4": {
+            "Kashi\\DevDojo\\Calculator\\": "src/"
+        }
+    },
     "require": {
-        "php": ">=7.0",
-        "kashi-devdojo/calculator": "1.0.0"
+        "php": ">=7.0"
     },
     "minimum-stability": "dev"
 }
