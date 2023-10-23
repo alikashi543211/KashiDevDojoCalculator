@@ -3,5 +3,6 @@
     "description": "A short description of what your package does",
     "require": {
         "kashi-devdojo/calculator": "1.0.0"
-    }
+    },
+    "minimum-stability": "dev"
 }
