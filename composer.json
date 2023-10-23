@@ -1,6 +1,18 @@
 {
     "name": "kashi-devdojo/calculator",
-    "description": "A short description of what your package does",
-    "require": {},
-    "minimum-stability": "dev"
+    "description": "custom authentication",
+    "license": "proprietary",
+    "autoload": {
+        "psr-4": {
+            "KashiDevDjoo\\Calculator\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "mac",
+            "email": "no-reply@gmail.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {}
 }
