@@ -1,8 +1,16 @@
 {
     "name": "kashi-devdojo/calculator",
-    "description": "A short description of what your package does",
+    "description": "My Awesome Package",
+    "type": "library",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Your Name",
+            "email": "your@email.com"
+        }
+    ],
     "require": {
-        "another-vendor/calculator": "1.0.0"
+        "php": ">=7.0"
     },
     "minimum-stability": "dev"
 }
