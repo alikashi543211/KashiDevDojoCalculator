@@ -1,5 +1,6 @@
 {
     "name": "kashi-devdojo/calculator",
     "description": "A short description of what your package does",
-    "require": {}
+    "require": {},
+    "minimum-stability": "dev"
 }
