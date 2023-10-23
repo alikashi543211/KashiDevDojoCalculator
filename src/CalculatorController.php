@@ -1,6 +1,6 @@
 <?php
 
-namespace Devdojo\Calculator;
+namespace KashiDevdojo\Calculator;
 
 use App\Http\Controllers\Controller;
 use Illuminate\Http\Request;

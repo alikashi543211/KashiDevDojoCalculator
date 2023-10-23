@@ -1,6 +1,6 @@
 <?php
 
-namespace Devdojo\Calculator;
+namespace KashiDevdojo\Calculator;
 
 use Illuminate\Support\ServiceProvider;
 

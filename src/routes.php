@@ -2,9 +2,9 @@
 
 // use Illuminate\Routing\Route;
 
-Route::get('calculator', function(){
+Route::get('k-calculator', function(){
 	echo 'Hello from the calculator package!';
 });
 
-Route::get('add/{a}/{b}', 'Devdojo\Calculator\CalculatorController@add');
-Route::get('subtract/{a}/{b}', 'Devdojo\Calculator\CalculatorController@subtract');
+Route::get('k-add/{a}/{b}', 'Devdojo\Calculator\CalculatorController@add');
+Route::get('k-subtract/{a}/{b}', 'Devdojo\Calculator\CalculatorController@subtract');
